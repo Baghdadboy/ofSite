@@ -15,9 +15,10 @@ Navigate to the [Visual Studio][0] and download the Community edition of the Vis
 
 Install
 -------
-Run the installer, and let it install to the default configuration. 
-
-![](vs_install.png)
+Run the installer, and select "Custom" then click "Next".
+Expand the "Programming Languages" section, then expand the "Visual C++" section.
+Select "Common Tools for Visual C++ 2015" then click "Next".
+Follow the prompts to begin the installation.
 
 Video Codecs
 -------
